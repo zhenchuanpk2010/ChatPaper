@@ -167,7 +167,7 @@ My tutorial: [Reinforcement Apprentice: Paper Reading Artifact SciSpace(Typeset.
 The main advantage over these two tools is that ChatPaper can automatically summarize the latest papers in batches, which can greatly reduce the reading threshold, especially for us Chinese.
 The disadvantage is also obvious. ChatPaper has no interactive function and cannot ask questions continuously. But I think this is not very important~
 
-
+## this demo was depecated by wang zhenchuan
 ## Summary Demo:
 
 ![6O4E3VW~X (7I }`ZV`Z`J](https://user-images.githubusercontent.com/28528386/224890637-62be8d42-813c-40ff-8c69-90bb13080e21.png)
